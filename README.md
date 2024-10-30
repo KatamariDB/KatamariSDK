@@ -40,7 +40,7 @@ To install and set up KatamariSDK, follow these steps:
 
    ```bash
    git clone https://github.com/KatamariDB/Katamari.git
-   cd Katamari/KatamariSDK
+   cd Katamari
    ```
 
 2. **Install Dependencies**:
