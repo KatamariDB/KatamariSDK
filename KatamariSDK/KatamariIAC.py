@@ -6,7 +6,7 @@ from datetime import datetime
 from KatamariSDK.KatamariScaler import KatamariScaler
 from KatamariSDK.KatamariFailover import KatamariFailover
 from KatamariSDK.KatamariDB import KatamariMVCC
-
+import random
 # Setup Logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger('KatamariIACOrchestrator')
