@@ -16,6 +16,7 @@ import uuid
 
 import aiofiles
 import orjson
+import orjson as json
 from cachetools import LRUCache
 from whoosh.analysis import StemmingAnalyzer
 from whoosh.fields import BOOLEAN, DATETIME, ID, KEYWORD, NUMERIC, Schema, TEXT
