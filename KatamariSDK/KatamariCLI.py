@@ -3,7 +3,7 @@ import argparse
 import asyncio
 from KatamariSDK.KatamariDB import KatamariORM, KatamariMVCC
 from KatamariSDK.KatamariPipelines import PipelineManager
-from KatamariSDK.KatamariAggregation import KatamariAggregation
+from KatamariSDK.KatamariAggregation import KatamariAggregation as KatamariAggregate
 from KatamariSDK.KatamariIAM import KatamariIAM
 from KatamariSDK.KatamariLambda import KatamariLambdaFunction
 
