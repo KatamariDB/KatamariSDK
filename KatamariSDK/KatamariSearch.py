@@ -1,5 +1,6 @@
 import os
 import tempfile
+from typing inport *
 from datetime import datetime
 from whoosh.fields import ID, TEXT, NUMERIC, DATETIME, Schema
 from whoosh.index import create_in, exists_in, open_dir
