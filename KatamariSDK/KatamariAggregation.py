@@ -3,7 +3,7 @@ from typing import Any, Dict, List, Optional
 import logging
 from KatamariSDK.KatamariDB import *
 from KatamariSDK.KatamariPipelines import PipelineModel
-
+import json
 logger = logging.getLogger('KatamariAggregation')
 
 class KatamariAggregation:
