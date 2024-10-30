@@ -1,0 +1,15 @@
+aiofiles               # For asynchronous file operations
+cachetools             # For LRU cache support
+python-dateutil        # For date parsing and manipulation
+orjson                 # For fast JSON serialization and deserialization
+portalocker            # For file locking (cross-platform support)
+whoosh                 # For full-text search capabilities
+matplotlib             # For generating charts and plots
+zstandard              # For compression (zstandard)
+websockets             # For websocket communication
+fastapi                # FastAPI framework for building APIs
+uvicorn                # ASGI server for running FastAPI apps
+matplotlib
+pyjwt
+argon2-cffi
+pycryptodome
