@@ -6,6 +6,9 @@ from datetime import datetime
 from KatamariSDK.KatamariScaler import KatamariScaler
 from KatamariSDK.KatamariFailover import KatamariFailover
 from KatamariSDK.KatamariDB import KatamariMVCC
+from KatamariSDK.KatamariAzureProvider import KatamariAzureProvider
+from KatamariSDK.KatamariAwsProvider import KatamariAWSProvider
+from KatamariSDK.KatamariGCPProvider import KatamariGCPProvider
 import random
 # Setup Logging
 logging.basicConfig(level=logging.INFO)
