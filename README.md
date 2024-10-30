@@ -1,8 +1,3 @@
-# Katamari
-Here's a complete README for **KatamariSDK** that includes an overview, features, installation instructions, quick start guide, and other key sections.
-
----
-
 # KatamariSDK
 
 **KatamariSDK** is a comprehensive, modular, and event-driven framework designed to support real-time data applications. Built to offer flexibility in handling data workflows and cloud infrastructure, KatamariSDK is inspired by the versatility of MongoDB, Redis, and Elasticsearch and provides a robust ecosystem to support complex, resilient, and high-performance applications.
